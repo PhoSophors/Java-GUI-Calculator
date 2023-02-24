@@ -6,20 +6,35 @@ The first scientific calculator that included all of the basic features above wa
 2. BASIC FUNCTION AND DESCRIPTON
 
   a. Arithmetic and Tribometry
+  
   b. Bitwise Operation
+  
   c. Money Exchange
+  
     i. Riel to other currencies
+    
     ii. Other currencies to riel
+    
   d. Storage Converter
+  
     i. Byte to (KB, MB, GB, TB, PB)
+    
     ii. Kilobyte to (B, MG, GB, TB PB)
+    
     iii. Megabyte to (B, KB, GB TB, PB)
+    
     Iv. Gigabyte to (B, KB, MB, TB, PB)
+    
     v. Terabyte to (B, KB, MB, GB, PB)
+    
     vi. Petabyte to (B, KB, MB, GB, TB)
+    
   e. Number System Conversion
+  
       Number system conversion used still the same storage converter
+      
   f. Binary Arithmetic
+  
       Due to some issues, we will upgrade it later.
       
 3. SYSTEM DESIGN

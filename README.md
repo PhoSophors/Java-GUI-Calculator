@@ -59,24 +59,22 @@
     
 7. REFERENCES
 
-[1] https://en.wikipedia.org/wiki/Calculator#CITEREFSmith1929 is an example of such rounding errors -- the algorithm's arcsin(arccos(arctan(tan(cos(sin(9)))))) should come out 9 on standard floating point hardware, but for CORDIC it's a pathological case that produces different rounding errors on each chip that it is implemented on. The algorithm is primarily used to identify the manufacturer of a particular calculator's CPU, since it is usually reproducible between chips of the same model.
+    [1] https://en.wikipedia.org/wiki/Calculator#CITEREFSmith1929 is an example of such rounding errors -- the algorithm's arcsin(arccos(arctan(tan(cos(sin(9)))))) should come out 9 on standard floating point hardware, but for CORDIC it's a pathological case that produces different rounding errors on each chip that it is implemented on. The algorithm is primarily used to identify the manufacturer of a particular calculator's CPU, since it is usually reproducible between chips of the same model.
 
-[2] https://www.programiz.com/c-programming/bitwise-operators
+    [2] https://www.programiz.com/c-programming/bitwise-operators
 
-[3] https://www.calculator.net/
+    [3] https://www.calculator.net/
 
-[4] According to Schmandt-Besserat 1981, these clay containers contained tokens, the total of which were the count of objects being transferred. The containers thus served as a bill of lading or an accounts book. In order to avoid breaking open the containers, marks were placed on the outside of the containers, for the count. Eventually (Schmandt-Besserat estimates it took 4000 years) the marks on the outside of the containers were all that were needed to convey the count, and the clay containers evolved into clay tablets with marks for the count.
+    [4] According to Schmandt-Besserat 1981, these clay containers contained tokens, the total of which were the count of objects being transferred. The containers thus served as a bill of lading or an accounts book. In order to avoid breaking open the containers, marks were placed on the outside of the containers, for the count. Eventually (Schmandt-Besserat estimates it took 4000 years) the marks on the outside of the containers were all that were needed to convey the count, and the clay containers evolved into clay tablets with marks for the count.
 
-[5] https://www.desmos.com/scientific
+    [5] https://www.desmos.com/scientific
 
-[6] https://www.online-calculator.com/
+    [6] https://www.online-calculator.com/
 
-[7] Georges Ifrah notes that humans learned to count on their hands. Ifrah shows, for example, a picture of Boethius (who lived 480–524 or 525) reckoning on his fingers in Ifrah 2000, p. 48.
+    [7] Georges Ifrah notes that humans learned to count on their hands. Ifrah shows, for example, a picture of Boethius (who lived 480–524 or 525) reckoning on his fingers in Ifrah 2000, p. 48.
 
-[8] https://calculator.com/
+    [8] https://calculator.com/
 
-[9] https://www.calculatorsoup.com/calculators/math/basic.php
+    [9] https://www.calculatorsoup.com/calculators/math/basic.php
 
-[10]
-
-[11] https://arxiv.org/abs/0712.1187
+    [11] https://arxiv.org/abs/0712.1187

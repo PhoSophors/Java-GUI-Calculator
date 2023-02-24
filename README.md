@@ -1,1 +1,4 @@
 # Java-Gui-Calculator
+1. INTRODACTION
+
+The first scientific calculator that included all of the basic features above was the programmable Hewlett-Packard HP-9100A,[1] released in 1968, though the Wang LOCI-2 and the Mathatronics Mathatron had some features later identified with scientific calculator designs. The HP-9100 series was built entirely from discrete transistor logic with no integrated circuits, and was one of the first uses of the CORDIC algorithm for trigonometric computation in a personal computing device, as well as the first calculator based on reverse Polish notation entry. HP became closely identified with RPN calculators from then on, and even today some of their high-end calculators (particularly the long-lived HP-12Cfinancial calculator and the HP-48 series of graphing calculators) still offer RPN as their default input mode due to having garnered a very large following.
